@@ -1,6 +1,6 @@
 "use strict";
 let total = 100;
-function adicionar(a = 10, b = 20) {
+function adicionar(a = 0, b = 0) {
     return a + b;
 }
 const resultado = adicionar(20, 30);
